@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.4.11-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\Alexey\AppData\Local\Temp\surefire4917634310314234661\surefirebooter4813003936535896049.jar C:\Users\Alexey\AppData\Local\Temp\surefire4917634310314234661 2020-07-11T22-36-35_605-jvmRun1 surefire17351728341632569336tmp surefire_117042305920022531946tmp"/>
+    <property name="sun.java.command" value="C:\Users\Alexey\AppData\Local\Temp\surefire1219927006041290241\surefirebooter15911945857681951025.jar C:\Users\Alexey\AppData\Local\Temp\surefire1219927006041290241 2020-07-11T22-37-46_715-jvmRun1 surefire8134520754426419078tmp surefire_18472443538139153536tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Alexey\dev\apache-maven\multi-modules\service\target\test-classes;C:\Users\Alexey\dev\apache-maven\multi-modules\service\target\classes;C:\Users\Alexey\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;C:\Users\Alexey\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Alexey\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Alexey\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;C:\Users\Alexey\dev\apache-maven\multi-modules\dal\target\dal-1.0-SNAPSHOT.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Alexey\AppData\Local\Temp\surefire4917634310314234661\surefirebooter4813003936535896049.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Alexey\AppData\Local\Temp\surefire1219927006041290241\surefirebooter15911945857681951025.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.4+11"/>
