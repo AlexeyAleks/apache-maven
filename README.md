@@ -1,1 +1,1 @@
-# apache-maven-multi-modules
+# apache-maven
