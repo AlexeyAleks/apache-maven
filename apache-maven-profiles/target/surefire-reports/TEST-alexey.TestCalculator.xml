@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="alexey.TestCalculator" time="0.009" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="alexey.TestCalculator" time="0.008" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.4.11-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\Alexey\AppData\Local\Temp\surefire11933848005871892024\surefirebooter7564244021866922105.jar C:\Users\Alexey\AppData\Local\Temp\surefire11933848005871892024 2020-07-12T13-00-33_330-jvmRun1 surefire1077048855421450207tmp surefire_016285973987169205268tmp"/>
+    <property name="sun.java.command" value="C:\Users\Alexey\AppData\Local\Temp\surefire2782680228478063362\surefirebooter15091603984795811356.jar C:\Users\Alexey\AppData\Local\Temp\surefire2782680228478063362 2020-07-12T13-07-16_122-jvmRun1 surefire18182306661130202231tmp surefire_07066843814444993468tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Alexey\dev\apache-maven\apache-maven-profiles\target\test-classes;C:\Users\Alexey\dev\apache-maven\apache-maven-profiles\target\classes;C:\Users\Alexey\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;C:\Users\Alexey\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Alexey\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Alexey\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Alexey\AppData\Local\Temp\surefire11933848005871892024\surefirebooter7564244021866922105.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Alexey\AppData\Local\Temp\surefire2782680228478063362\surefirebooter15091603984795811356.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.4+11"/>
@@ -60,8 +60,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="alexey.TestCalculator.testMultiply" classname="alexey.TestCalculator" time="0.002"/>
-  <testcase name="alexey.TestCalculator.testAdd" classname="alexey.TestCalculator" time="0"/>
+  <testcase name="alexey.TestCalculator.testAdd" classname="alexey.TestCalculator" time="0.001"/>
   <testcase name="alexey.TestCalculator.testSubtract" classname="alexey.TestCalculator" time="0"/>
-  <testcase name="alexey.TestCalculator.testDivide" classname="alexey.TestCalculator" time="0.001"/>
+  <testcase name="alexey.TestCalculator.testMultiply" classname="alexey.TestCalculator" time="0"/>
+  <testcase name="alexey.TestCalculator.testDivide" classname="alexey.TestCalculator" time="0"/>
 </testsuite>
