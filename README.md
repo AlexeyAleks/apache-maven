@@ -1,4 +1,4 @@
-# apache-maven
+# apache-maven-multi-modules
 
 Создание многомодульного проекта.
 
