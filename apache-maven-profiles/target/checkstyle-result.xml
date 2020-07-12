@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
 <file name="C:\Users\Alexey\dev\apache-maven\apache-maven-profiles\src\main\java\alexey\Calculator.java">
-<error line="1" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
-<error line="4" column="5" severity="error" message="Class &apos;Calculator&apos; looks like designed for extension (can be subclassed), but the method &apos;add&apos; does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class &apos;Calculator&apos; final or making the method &apos;add&apos; static/final/abstract/empty, or adding allowed annotation for the method." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
-<error line="4" column="13" severity="error" message="Parameter x should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
-<error line="4" column="20" severity="error" message="Parameter y should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
-<error line="8" column="5" severity="error" message="Class &apos;Calculator&apos; looks like designed for extension (can be subclassed), but the method &apos;subtract&apos; does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class &apos;Calculator&apos; final or making the method &apos;subtract&apos; static/final/abstract/empty, or adding allowed annotation for the method." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
-<error line="8" column="18" severity="error" message="Parameter x should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
-<error line="8" column="25" severity="error" message="Parameter y should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
-<error line="12" column="5" severity="error" message="Class &apos;Calculator&apos; looks like designed for extension (can be subclassed), but the method &apos;multiply&apos; does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class &apos;Calculator&apos; final or making the method &apos;multiply&apos; static/final/abstract/empty, or adding allowed annotation for the method." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
-<error line="12" column="18" severity="error" message="Parameter x should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
-<error line="12" column="25" severity="error" message="Parameter y should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
-<error line="16" column="5" severity="error" message="Class &apos;Calculator&apos; looks like designed for extension (can be subclassed), but the method &apos;divide&apos; does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class &apos;Calculator&apos; final or making the method &apos;divide&apos; static/final/abstract/empty, or adding allowed annotation for the method." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
-<error line="16" column="16" severity="error" message="Parameter x should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
-<error line="16" column="23" severity="error" message="Parameter y should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+</file>
+<file name="C:\Users\Alexey\dev\apache-maven\apache-maven-profiles\src\main\java\alexey\package-info.java">
 </file>
 </checkstyle>
